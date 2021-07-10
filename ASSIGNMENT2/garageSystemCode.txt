@@ -1,0 +1,61 @@
+#include<Servo.h>
+#include <LiquidCrystal.h>
+const int rs = 5; 
+const int en = 6;
+const int d4 = 7;
+const int d5 = 8;
+const int d6 = 9;
+const int d7 = 10;
+Servo s;
+LiquidCrystal lcd(rs,en,d4,d5,d6,d7);
+void setup()
+{
+  s.attach(4);
+  pinMode(2,OUTPUT);
+  pinMode(3,INPUT);
+  lcd.begin(16,2);
+
+}
+
+void loop()
+{
+  float distance = mot();
+  dispsys(distance);
+  
+}
+
+float mot()
+{
+  digitalWrite(2,LOW);
+  digitalWrite(2,HIGH);
+  delayMicroseconds(10);
+  digitalWrite(2, LOW);
+  float dur = pulseIn(3, HIGH);
+  float dist = (dur * 0.0343)/2;
+  return dist;
+}
+
+void dispsys(float dis)
+{
+  if(dis<=200)
+  {
+    lcd.clear();
+  	lcd.setCursor(0,0);
+  	lcd.print("DIST = ");
+  	lcd.print(dis);
+    lcd.setCursor(0,1);
+    lcd.print("GATE OPEN");
+    s.write(90);
+    delay(10000);
+  }
+  
+  lcd.clear();
+  lcd.setCursor(0,0);
+  lcd.print("DIST = ");
+  lcd.print(dis);
+  lcd.setCursor(0,1);
+  lcd.print("GATE CLOSE");
+  s.write(0);
+  delay(1000);
+  
+}
