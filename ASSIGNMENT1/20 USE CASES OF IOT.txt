@@ -1,0 +1,188 @@
+Q. List out 20 use cases of the Internet of Things.
+
+Ans:
+
+1. IOT IN MARKETING AND SALES:
+
+In marketing it can used for the collection and analysis of product usage
+and consumable data to predict customer requirements and trigger cross - sell and 
+up-sell alerts.
+It also helps in integrating of product usage and performance data for outcome, 
+performance and usage based pricing , and enhancement of customer's product operation leveraging 
+aggregated base data and domain expertise.
+The detection of congestion on road through GPS navigation is made possible using IOT. 
+
+2. IOT IN PRODUCT DEVELOPMENT:
+
+It can be used in connected product usage and quality analysis to ensure a better product 
+quality , reliability and safety , and also in the remote identification , management and control
+of the product configuration.
+
+
+3. IOT IN MANUFACTURING:
+
+It can help in logistic optimization through easy location and monitoring of key assets.
+It also helps in unified factory wide communication via active and passive tags.
+It can also be used to support faster and better decision making through operational data 
+silos connection and also in real time asset health monitoring.
+
+
+4. IOT IN SERVICE:
+
+It can be used for the better monitoring and diagnosis of product issues, and also
+remote servicing of products throuh real time interaction.
+It can be very useful in automated tecnician dispatching and service execution based on 
+connected product alerts and management.
+Through continuous product usage monitoring ,identification and prevention of potential 
+warrenty compliance issue can be reduced.
+
+
+5. IOT IN INFORMATION TECHNOLOGY:
+
+It can be used to secure real time bidirectional device communication for access control,
+logs and audits, and also for the scalable IOT operations management, and seamless data 
+integration.
+It also helps in development and maintenance of innovative connected applications.
+
+
+6. IOT IN CUSTOMER SERVICE:
+
+
+ 
+It can be used for the customer allowance to minotor and tract product usage and performance.
+It makes it easy for the customer for quick diagnosis and resolution of product issues
+based on connected product data, and also add custom fearures and enhance experience.
+
+
+7. IOT IN BANKING AND FINANCIAL INSTITUTIONS:
+
+It can be used in inventory and cost monitoring to ensure follow of loan agreement, mininizing
+of insurance frauds through real time theft detection mechanism , and automatic sanction of 
+home improvement loans on internal damage detection.
+It can also save time throgh triggering branch staff preparation with relevant data before
+client walks in.
+It can also send automatic alerts on shopping loans when client goes for a day shopping,and
+even with targetted credit/debit card offer in different products and different schemes
+
+
+
+8. IOT IN INSURANCE:
+
+It can help in maintaining usage based insurance based on real time data collection regarding
+vehicle speed,distance, time of travel , etc.
+
+
+9. IOT IN RETAIL:
+
+It helps in analysis of customer in-store navigation through sensors , and also in smart 
+digital signage.
+It also can reduce threat and damage using real time inventory tracking.
+We can also use it for an improved customer service life beforehand identification and 
+resolution of issues, and also personalizing consumer shopping experience to ensure 
+increased profits.
+
+
+10. IOT IN HEALTHCARE:
+
+It can be usde in the management of warehouse and pharmacy inventory through ERP integration,
+and also in the medical device integration.
+It can also be used under wandering patient tracking to nursing home/hospital engagement and
+activity monitoring.
+It can also be used in several wearable devices like fitness band. 
+
+
+11. IOT IN EDUCATION:
+
+
+It can be used for the digital collaboration and engagement of teachers and students via 24/7
+accessible education tool.
+It can also be used in the security system of school as to track students activity and incase
+of any danger transmit the notification automatically to the police.
+
+
+12. IOT IN TRAVEL AND HOSPITALITY:
+
+
+These can be efficient for product monitoring , as well as customer status monitoring 
+through wearable and apps and also benificial for the customer experience tracking at
+business premises. 
+
+
+13. IOT IN AGRICULTURE:
+
+It can be used for monitoring soil conditions of a plot of federal land, controlling water
+usage, determining custom fertilizer using sensor , and also managing animal husbandary and
+hence saving cost utilizing cattle health and well being data.
+It can also be used for farm resource savings using wireless sensors and remote monitoring 
+devices.
+
+14. IOT IN SMART HOME:
+
+It can be used to connect appliances with remote diagnostics, management and analytics of 
+home control.
+It can be very helpful to manage fire safety devices remotely and trigger alerts to neighbours
+in case of emergency.
+Remtly home surveillance leveraging unmanned autonomous vehicles or UAV's like drones.
+
+
+15. IOT IN CONNECTED BUSINESS:
+
+
+Itcan be used for smart lightning through the optimal space illumination ensuring invaluable 
+security and life safety , and also as potentiate HVAC controllers, thermostats ans sensors.
+It can asy be very helpful for surity and access controls by enabling the remote user access
+management.
+
+
+16. IOT IN AUTOMOTIVE:
+
+
+Using IOT in automotive it can be very helpful for connected car system monitoring like it
+can be given features such as city navigation,location based services, drive-assist applications,
+car-on-demand services, remote diagnostics etc.
+Even the real time fleet management can be done by the development of end to end fleet management,
+and also deriver safety systems can be provided which triggers automatic alerts on emergency , and
+also monitoring ateering movements and controlling in-lane position.
+
+
+17. IOT IN CONSUMER ELECTRONICS:
+
+
+It can be helpful in achieving building automation through use of connected devices,smart appliances
+and more, and also in development of robots for some specific works.
+
+18. IOT IN LOGISTICS:
+
+
+It can be helpful in real time inventory tracking by speeding up warehouse operation using
+smart labels, and also in cargo integrity monitoring by embedding electronics in regular 
+containers and track it in its route.
+
+
+19. IOT IN SMART EMERGY SYSTEMS:
+
+
+It can be very helpful in smart metering system that would make data analytics,smart billing and smart
+energy profiling very easy and reduce the theft of electricity.
+It can also be used for smart grid automation like remote asset monitoring,smart grid load
+balancing, machine learning based predictive analytics , and also maintaining infrastructure 
+remotely.
+
+20. IOT IN SMART CITY:
+
+It can be used for AD-HOC traffic balancing, smart parking systems , and also in smart public
+safety systems , and weather alert systems.
+It can be efficient in public services tracking.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
